@@ -36,8 +36,8 @@ namespace NinjaPixelAPI
 
             Console.WriteLine(response.Content);
 
-            Assert.IsTrue(response.Content.Contains(full_name), "Verificando e-mail ao retorno da resposta.");
-            Assert.IsTrue(response.Content.Contains(email), "Verificando");
+            Assert.IsTrue(response.Content.Contains(full_name), "Verificar se existe o e-mail do novo usuário no response");
+            Assert.IsTrue(response.Content.Contains(email), "Verificar se existe e-mail do novo usuário no response");
         }
     }
 }

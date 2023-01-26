@@ -8,7 +8,7 @@ namespace NinjaPixelAPI
     public class Usuario
     {
         [TestMethod]
-        public void AutenticacaoTest()
+        public void NovoUsuarioTest()
         {
             // Entrada de Dados
             string baseUrl = "http://localhost:3333";

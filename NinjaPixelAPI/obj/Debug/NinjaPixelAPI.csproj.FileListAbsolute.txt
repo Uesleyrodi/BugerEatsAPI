@@ -53,3 +53,4 @@ C:\NinjaPIxelAPI\NinjaPixelAPI\obj\Debug\NinjaPixelAPI.dll
 C:\NinjaPIxelAPI\NinjaPixelAPI\obj\Debug\NinjaPixelAPI.pdb
 C:\NinjaPIxelAPI\NinjaPixelAPI\bin\Debug\Newtonsoft.Json.dll
 C:\NinjaPIxelAPI\NinjaPixelAPI\bin\Debug\Newtonsoft.Json.xml
+C:\NinjaPIxelAPI\NinjaPixelAPI\bin\Debug\Deploy\ApiAutenticacaoConfig.json

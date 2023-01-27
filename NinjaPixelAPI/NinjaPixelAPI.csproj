@@ -119,9 +119,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="APIs\ApiAutenticacao.cs" />
     <Compile Include="Hooks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UsuarioTeste.cs" />
+    <Compile Include="Feature\AutenticacaoTeste.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

@@ -5,7 +5,7 @@ using System;
 
 namespace NinjaPixelAPI.APIs
 {
-    public class ApiAutenticacao
+    public class ApiCredentials
     {
         //Endpoint
         static string baseUrl = "http://localhost:3333";

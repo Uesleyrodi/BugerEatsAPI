@@ -4,12 +4,12 @@ using NinjaPixelAPI.APIs;
 namespace NinjaPixelAPI.Feature
 {
     [TestClass]
-    public class Autenticacao
+    public class AutenticacaoToken
     {
         [TestMethod]
-        public void AutenticacaoTokenTest()
+        public void AutenticacaoComSucessoTest()
         {
-            ApiAutenticacao.GetToken();
+            ApiCredentials.GetToken();
         }
     }
 }
